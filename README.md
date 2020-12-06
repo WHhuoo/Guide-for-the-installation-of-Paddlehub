@@ -49,7 +49,7 @@
                sudo apt install git  
 
    3.2出现ModuleNotFoundError: No module named 'sentencepiece'
-       （在Anaconda下的pytorch运行程序时，会出现这种情况）  
+       （在Anaconda下运行程序时，会出现这种情况）  
         （1）打开 anaconda prompt  
         （2）激活pytorch环境后  
         （3）输入 conda install -c roccqqck sentencepiece 进行安装  
